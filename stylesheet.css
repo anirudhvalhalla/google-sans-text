@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Google Sans Text';
+    src: url('GoogleSansText-Regular.eot');
+    src: url('GoogleSansText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('GoogleSansText-Regular.woff2') format('woff2'),
+        url('GoogleSansText-Regular.ttf') format('truetype'),
+        url('GoogleSansText-Regular.svg#GoogleSansText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans Text';
+    src: url('GoogleSansText-Bold.eot');
+    src: url('GoogleSansText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GoogleSansText-Bold.woff2') format('woff2'),
+        url('GoogleSansText-Bold.ttf') format('truetype'),
+        url('GoogleSansText-Bold.svg#GoogleSansText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans Text';
+    src: url('GoogleSansText-Medium.eot');
+    src: url('GoogleSansText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('GoogleSansText-Medium.woff2') format('woff2'),
+        url('GoogleSansText-Medium.ttf') format('truetype'),
+        url('GoogleSansText-Medium.svg#GoogleSansText-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
